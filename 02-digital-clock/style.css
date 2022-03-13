@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(41, 41, 70);
+  color: blanchedalmond;
+  font-family: "Courier New", Courier, monospace;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.clock {
+  font-size: 60px;
+  letter-spacing: 7px;
+  border: 3px solid #f1c;
+  border-radius: 10px;
+}
